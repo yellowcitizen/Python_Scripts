@@ -33,9 +33,6 @@ def checkAll(char):
   if checkLine(char, 0, 4, 8):
     return True
 
-
-
-
 while True:
   input = raw_input("Select a spot: ")
   input = int(input)
