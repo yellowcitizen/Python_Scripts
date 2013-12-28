@@ -10,5 +10,5 @@ def fibonacci(x):
         print(b),
         a, b = b, a + b
 
-x = input('type a number below\n')
+x = input('type a number great than 0 and 1\n')
 print(fibonacci(x))
